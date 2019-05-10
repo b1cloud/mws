@@ -72,7 +72,7 @@ require_once (dirname(__FILE__) . '/../Model.php');
     /**
      * Get the value of the ShipmentEventList property.
      *
-     * @return List<ShipmentEvent> ShipmentEventList.
+     * @return MWSFinancesService_Model_ShipmentEvent[] ShipmentEventList.
      */
     public function getShipmentEventList()
     {
