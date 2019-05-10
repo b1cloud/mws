@@ -254,7 +254,7 @@ require_once (dirname(__FILE__) . '/../Model.php');
     /**
      * Get the value of the ItemChargeList property.
      *
-     * @return List<ChargeComponent> ItemChargeList.
+     * @return MWSFinancesService_Model_ChargeComponent[] ItemChargeList.
      */
     public function getItemChargeList()
     {
