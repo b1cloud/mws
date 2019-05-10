@@ -96,7 +96,7 @@ require_once (dirname(__FILE__) . '/../Model.php');
     /**
      * Get the value of the FinancialEvents property.
      *
-     * @return MWSFinancesService_Model_FinancialEvents[] FinancialEvents.
+     * @return MWSFinancesService_Model_FinancialEvents FinancialEvents.
      */
     public function getFinancialEvents()
     {
