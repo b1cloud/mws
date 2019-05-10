@@ -1,1 +1,1 @@
-This is a fork from - https://github.com/brickfox/mws 
+Fork from https://github.com/brickfox/mws with fixes & improvements
