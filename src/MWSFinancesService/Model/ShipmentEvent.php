@@ -704,7 +704,7 @@ require_once (dirname(__FILE__) . '/../Model.php');
     /**
      * Get the value of the ShipmentItemList property.
      *
-     * @return List<ShipmentItem> ShipmentItemList.
+     * @return MWSFinancesService_Model_ShipmentItem[] ShipmentItemList.
      */
     public function getShipmentItemList()
     {
